@@ -1,0 +1,47 @@
+{
+  "uz": {
+    "start": "Salom! 😊 Til tanlang:",
+    "choose_mode": "Xabar yuborish usulini tanlang:",
+    "anon": "🕵️ Anonim yozish",
+    "open": "🪪 Ochiq yozish",
+    "about": "ℹ️ Men haqimda",
+    "anon_chosen": "✅ Siz <b>Anonim rejim</b>ni tanladingiz.",
+    "open_chosen": "✅ Siz <b>Ochiq rejim</b>ni tanladingiz."
+  },
+  "ru": {
+    "start": "Привет! 😊 Выберите язык:",
+    "choose_mode": "Выберите способ отправки сообщения:",
+    "anon": "🕵️ Анонимно",
+    "open": "🪪 Открыто",
+    "about": "ℹ️ Обо мне",
+    "anon_chosen": "✅ Вы выбрали <b>Анонимный режим</b>.",
+    "open_chosen": "✅ Вы выбрали <b>Открытый режим</b>."
+  },
+  "en": {
+    "start": "Hello! 😊 Choose a language:",
+    "choose_mode": "Choose message mode:",
+    "anon": "🕵️ Anonymous",
+    "open": "🪪 Open",
+    "about": "ℹ️ About me",
+    "anon_chosen": "✅ You selected <b>Anonymous mode</b>.",
+    "open_chosen": "✅ You selected <b>Open mode</b>."
+  },
+  "tr": {
+    "start": "Merhaba! 😊 Dil seçin:",
+    "choose_mode": "Mesaj gönderme şeklini seçin:",
+    "anon": "🕵️ Anonim",
+    "open": "🪪 Açık",
+    "about": "ℹ️ Hakkımda",
+    "anon_chosen": "✅ <b>Anonim mod</b> seçtiniz.",
+    "open_chosen": "✅ <b>Açık mod</b> seçtiniz."
+  },
+  "ar": {
+    "start": "مرحبًا! 😊 اختر اللغة:",
+    "choose_mode": "اختر وضع إرسال الرسائل:",
+    "anon": "🕵️ مجهول",
+    "open": "🪪 علني",
+    "about": "ℹ️ معلومات عني",
+    "anon_chosen": "✅ لقد اخترت <b>الوضع المجهول</b>.",
+    "open_chosen": "✅ لقد اخترت <b>الوضع العلني</b>."
+  }
+}
